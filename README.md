@@ -25,7 +25,7 @@ Bu uygulama ile:
 * **MSSQL**
 * **Dependency Injection**
 
-```
+
 
 ## 📌 CQRS Mantığı Nasıl Uygulandı?
 
@@ -39,7 +39,7 @@ Proje iki temel işlem türüne ayrılmıştır:
 
 Her komutun kendi **Command** sınıfı ve aynı class içinde **Handler** sınıfı vardır.
 
-```
+
 
 ### ✔ Query İşlemleri (Read Operations)
 
@@ -49,7 +49,6 @@ Her komutun kendi **Command** sınıfı ve aynı class içinde **Handler** sın�
 Her sorgunun kendi Query sınıfı ve Handler sınıfı vardır.
 
 
-```
 
 
 ## 📚 Öğrenilenler
