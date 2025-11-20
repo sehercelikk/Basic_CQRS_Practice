@@ -10,8 +10,10 @@ Bu uygulama ile:
 * Command ve Query işlemlerini ayrı katmanlarda yönetmek,
 * MediatR kullanımını örneklemek,
 * AutoMapper kütüphanesini kullanmak,
-* Temel CRUD işlemlerini CQRS yaklaşımıyla gerçekleştirmek amaçlanmıştır.
+* Temel CRUD işlemlerini CQRS yaklaşımıyla gerçekleştirmek,
+* Registiration işlemlerini katmanlara ayırmak,
 * Farklı pojeden referans aldığı .dll dosyası ile generic yapıyı merkezileştirmek
+  amaçlanmıştır.
 
 ## 🏗️ Kullanılan Teknolojiler
 
